@@ -3,3 +3,7 @@ Chapter One
 This is where the story begins. It was a dark and stormy night. The wind was blowing and the rain was driving.
 
 I am adding even more here. Is it enough yet for this test?
+
+And so our story began. Or did it? I don't really know. It doesn't really matter. What matters is: this file is being updated. I'm adding to the story. I doubt if I have word wrap turned on. Nope, looks like I don't.
+
+So There you have it.

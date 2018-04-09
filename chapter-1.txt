@@ -7,3 +7,14 @@ I am adding even more here. Is it enough yet for this test?
 And so our story began. Or did it? I don't really know. It doesn't really matter. What matters is: this file is being updated. I'm adding to the story. I doubt if I have word wrap turned on. Nope, looks like I don't.
 
 So There you have it.
+
+
+* * *
+
+Continuing with the chapter, this is a new paragraph. This is part of a bigger story, one that has yet to be told successfully or at least, clearly.
+
+And this is another chapter. I'm going to stop here for this session.
+
+Our story continues now, as it should, with some more writing. Because that's what writers do: they write. I could just use ipsum lorem text, but I feel like typing some today.
+
+So I have been typing.

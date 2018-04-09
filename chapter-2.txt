@@ -5,3 +5,7 @@ I am a little bit of text for Chapter two.
 I hope this makes it in some how.
 
 What do you think?
+
+* * *
+
+Here is an update to Chapter Two. I decided to capitalize the chapter here for no reason whatsoever.

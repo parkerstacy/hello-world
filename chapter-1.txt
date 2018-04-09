@@ -18,3 +18,7 @@ And this is another chapter. I'm going to stop here for this session.
 Our story continues now, as it should, with some more writing. Because that's what writers do: they write. I could just use ipsum lorem text, but I feel like typing some today.
 
 So I have been typing.
+
+* * *
+
+Here is a small update to chapter one.
